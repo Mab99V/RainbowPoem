@@ -1,4 +1,4 @@
-El Arcoiris y el unicornio
+El Arcoiris y el unicornio y el poni
 
 Morado
 Rosado
@@ -10,3 +10,4 @@ Amarillo
 Rojo
 Estos son colores del arcoiris.
 Y el unicornio
+poni
