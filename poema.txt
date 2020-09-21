@@ -5,6 +5,7 @@ Rosado
 Naranja
 Azul
 Verde
+Indigo
 Unicornio
 Amarillo
 Rojo
