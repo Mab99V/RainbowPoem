@@ -4,5 +4,6 @@ Morado
 Rosado
 Naranja
 Azul
+Verde
 Rojo
 Estos son colores del arcoiris
