@@ -1,10 +1,12 @@
-El Arcoiris
+El Arcoiris y el unicornio
 
 Morado
 Rosado
 Naranja
 Azul
 Verde
+Unicornio
 Amarillo
 Rojo
-Estos son colores del arcoiris
+Estos son colores del arcoiris.
+Y el unicornio
